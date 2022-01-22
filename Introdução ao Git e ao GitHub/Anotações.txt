@@ -1,0 +1,54 @@
+Comandou mais utilizados no GIT:
+
+
+
+PIN>
+eval $(ssh-agent -s)
+-Startando o processo
+
+mkdmkdir
+adicionando id
+ssh-add id_ed25519
+
+Para clonar repositorio:
+git clone git@githuh
+
+Token de acesso pessoal:
+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
+
+
+Unix (Linux/IOS)
+cd
+ls
+mkdir
+rm -rf
+
+___________________________
+Comando
+git init
+git add
+git commit
+
+
+Flags
+ls -a : mostra 
+
+
+_______________________________
+Configurando o Git
+
+git config -- globaluser.email "lia.muniz21@gmail.com
+
+__________________________________________
+git status
+ git remote add origin "link do github"
+git add *
+git status
+git commit -m "Adiciona pasta projeto clone Netflix" __ adicionar commit
+
+git remote -v : ver os arquivos inputados
+
+git push origin master : inserir no github
+git config --glogal --unset user.name "Nathalia"
+
+Commitarcle
