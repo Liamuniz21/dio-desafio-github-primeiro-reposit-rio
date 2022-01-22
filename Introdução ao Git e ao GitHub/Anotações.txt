@@ -1,4 +1,4 @@
-Comandou mais utilizados no GIT:
+Comandos mais utilizados no GIT:
 
 
 
